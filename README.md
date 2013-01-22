@@ -23,8 +23,7 @@ This directory contains a build script (build.sh) to compile the following tools
 ```
 export PATH=$PATH:$HOME/csiro-cortex-tools
 ```
-# Verify your installation
-Check if the gcc compiler for ARM is correctly installed by typing:
+4. Check if the gcc compiler for ARM is correctly installed by typing:
 ```
 arm-none-eabi-gcc --version
 ```
