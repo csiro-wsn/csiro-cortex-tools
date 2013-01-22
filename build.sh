@@ -51,7 +51,7 @@ GDBURL=http://launchpad.net/gdb-linaro/7.5/${GDBRELEASE}/+download/${GDB}.tar.bz
 
 
 BINUTILS=binutils-2.23.1
-NEWLIB=newlib-2.0.0
+NEWLIB=newlib-1.20.0
 
 
 ##############################################################################

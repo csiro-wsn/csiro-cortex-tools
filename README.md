@@ -11,7 +11,7 @@ This directory contains a build script (build.sh) to compile the following tools
 
 2. GNU Debugger (GDB) (Linaro-GDB-7.5-2012.12-1)
 
-3. Newlib (2.0.0)
+3. Newlib (1.20.0)
 
 4. Binutils (binutils-2.23.1)
 
