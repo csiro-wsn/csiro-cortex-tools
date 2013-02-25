@@ -31,7 +31,7 @@ esac
 echo "Settings used for this build are:"
 echo "TARGET=$TARGET"
 echo "PREFIX=$PREFIX"
-
+echo "DESTDIR=$DESTDIR"
 
 ##############################################################################
 # Version and download url settings section
